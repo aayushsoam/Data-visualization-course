@@ -2,7 +2,7 @@
 
 Small single-file CLI app for basic student CRUD using either MySQL or SQLite.
 
-Features
+Features 
 - Insert, update, delete and list students.
 - Tries MySQL first (supports `mysql.connector` and `pymysql` fallbacks) then falls back to local SQLite.
 - Minimal dependencies; works out-of-the-box with SQLite.
